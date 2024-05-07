@@ -1,6 +1,6 @@
 # TMDb Horror Movie Scraper
 
-This Python script searches for horror movies using The Movie Database (TMDb) API and saves the results to a CSV file. It utilizes the `requests` library to interact with the TMDb API and fetches horror movies based on their genre ID.
+This Python script searches for movies using The Movie Database (TMDb) API and saves the results to a CSV file. It utilizes the `requests` library to interact with the TMDb API and fetches horror movies based on their genre ID.
 
 ## Features
 
